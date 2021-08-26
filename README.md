@@ -1,6 +1,7 @@
 - 👋 Hi, I’m __Samantha Yanas__
 - 👀 I’m a __Software Engineer__
 - 🌱 I’m currently enrolled in a pre-apprenticeship with IBM, learning more on the __mainframe__
+- 🌱 I have a __Associate Front End Web Development Certificate__
 - 💞️ I’m looking for a position with:  __positive__ work __culture__ | opportunity for __growth__ | __career__ that will last
 - 📫 How to reach me: __313-828-7075__ | __samantha.m.yanas@gmail.com__
 
